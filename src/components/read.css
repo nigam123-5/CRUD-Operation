@@ -1,0 +1,63 @@
+.header-container {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.title {
+  font-size: 2rem;
+  color: #004085;
+  font-weight: bold;
+  margin: 0;
+  margin-bottom: 10px;
+  
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #0069d9;
+  margin-bottom: 20px;
+}
+
+.btn-create {
+  position: absolute;
+  top: 0;
+  right: 10%;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+table {
+  width: 90%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+button {
+  margin-right: 5px;
+  padding: 6px 12px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.edit-btn {
+  background-color: #007bff;
+}
+
+.delete-btn {
+  background-color: #dc3545;
+}
